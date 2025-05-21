@@ -1,0 +1,7 @@
+This is a full four-bar linkage synthesis and simulation pipeline combining:
+
+3-Position Precision Point (3PP) Synthesis
+Freudenstein’s Equation-based solution
+Transmission angle evaluation
+Real-time animation of crank–coupler–rocker motion
+Vector-based dyad diagrams for design validation
