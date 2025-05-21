@@ -92,7 +92,7 @@ def synthesize_and_plot_matlab_style(pps, theta_deg, beta_deg, gamma_deg):
     print("L4 (Ground):", L4)
     print("Grashof Check:", S + L, "<=", P + Q, "→", S + L <= P + Q)
 
-    # ✅ Return useful values too
+    # Return useful values too
     return {
         "OA": OA, "OB": OB,
         "WA": WA, "ZA": ZA,
